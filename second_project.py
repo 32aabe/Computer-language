@@ -40,7 +40,3 @@ while True:
 
     for alphabet in current:
         print(alphabet, end=' ')
-
-
-
-
